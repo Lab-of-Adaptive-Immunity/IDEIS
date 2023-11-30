@@ -1,8 +1,8 @@
 *
 !.gitignore
-!Fasta_exons
-!Rule_sets
-!Transcriptomes/.gitignore
+!Fasta_exons/
+!Rule_sets/
+!Transcriptomes/
 !ACKNOWLEDGEMENTS.md
 !config.txt
 !Extract_whitelist_from_rds.R

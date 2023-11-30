@@ -1,0 +1,14 @@
+#central.exon:exon.list:transcript.name:gene.name
+A:R,A,B,C,O:Ptprc-RABCO-1:Ptprc-RA
+A:R,A,B,O:Ptprc-RABO-2:Ptprc-RA
+A:R,A,C,O:Ptprc-RACO-3:Ptprc-RA
+A:R,A,O:Ptprc-RAO-4:Ptprc-RA
+B:R,A,B,C,O:Ptprc-RABCO-5:Ptprc-RB
+B:R,A,B,O:Ptprc-RABO-6:Ptprc-RB
+B:R,B,C,O:Ptprc-RBCO-7:Ptprc-RB
+B:R,B,O:Ptprc-RBO-8:Ptprc-RB
+C:R,A,B,C,O:Ptprc-RABCO-9:Ptprc-RC
+C:R,B,C,O:Ptprc-RBCO-10:Ptprc-RC
+C:R,A,C,O:Ptprc-RACO-11:Ptprc-RC
+C:R,C,O:Ptprc-RCO-12:Ptprc-RC
+:R,-,O:Ptprc-RO-13:Ptprc-RO
