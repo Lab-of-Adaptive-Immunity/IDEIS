@@ -1,0 +1,13 @@
+*
+!.gitignore
+!Fasta_exons
+!Rule_sets
+!Transcriptomes/.gitignore
+!ACKNOWLEDGEMENTS.md
+!config.txt
+!Extract_whitelist_from_rds.R
+!Generate_final_mtx.R
+!IDEIS_main.py
+!LICENSE.md
+!README.md
+
