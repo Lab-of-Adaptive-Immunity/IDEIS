@@ -37,7 +37,7 @@ You can find them in your installation of 10X Cell Ranger at 'cellranger-x.y.z/c
 at 'cellranger-x.y.z/lib/python/cellranger/barcodes/' (for later versions), but you can also download them here:
 
 ```
-cd cr_whitelists
+cd IDEIS/cr_whitelists
 wget https://github.com/Lab-of-Adaptive-Immunity/cr_whitelists/raw/main/737K-august-2016.txt
 wget https://github.com/Lab-of-Adaptive-Immunity/cr_whitelists/raw/main/3M-february-2018.txt.gz
 gunzip 3M-february-2018.txt.gz
@@ -73,7 +73,7 @@ Lastly, you need to obtain the software bamtofastq-1.4.1. You can get it on this
 In case of LINUX systems you can use the following command when in cloned IDEIS directory:
 
 ```
-cd IDEIS
+cd IDEIS # if not in IDEIS directory already
 wget https://github.com/10XGenomics/bamtofastq/releases/download/v1.4.1/bamtofastq_linux
 mv bamtofastq_linux bamtofastq-1.4.1
 ```

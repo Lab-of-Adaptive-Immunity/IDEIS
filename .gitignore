@@ -3,6 +3,11 @@
 !Fasta_exons/
 !Rule_sets/
 !Transcriptomes/
+!Conda/
+
+!cr_whitelists/.gitignore
+!images/Test_data_example.png
+
 !ACKNOWLEDGEMENTS.md
 !config.txt
 !Extract_whitelist_from_rds.R
@@ -10,4 +15,5 @@
 !IDEIS_main.py
 !LICENSE.md
 !README.md
+
 
