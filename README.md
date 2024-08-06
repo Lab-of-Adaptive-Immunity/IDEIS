@@ -73,7 +73,6 @@ Lastly, you need to obtain the software bamtofastq-1.4.1. You can get it on this
 In case of LINUX systems you can use the following command when in cloned IDEIS directory:
 
 ```
-cd IDEIS # if not in IDEIS directory already
 wget https://github.com/10XGenomics/bamtofastq/releases/download/v1.4.1/bamtofastq_linux
 mv bamtofastq_linux bamtofastq-1.4.1
 ```
