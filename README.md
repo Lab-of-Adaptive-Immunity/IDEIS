@@ -47,7 +47,7 @@ cd ..
 Finally, you can download an example data set to run file on, but it is not required; you may want to skip directly to the analysis of your own data.
 
 ```
-
+git clone https://github.com/Lab-of-Adaptive-Immunity/Test_Data_IDEIS
 ```
 
 ## Requirements
