@@ -7,4 +7,4 @@ to the binary files below:
 PATHS:
 #Rscript = /path/to/Rscript
 #salmon = /path/to/salmon
-# samtools = /path/to/samtools
+#samtools = /path/to/samtools
