@@ -49,9 +49,9 @@ all.barcodes <- ''
 # no whitelist nor .rds data-set with Seurat Object supplied
 if(whitelist.path == 'None' && data.set.input.path == 'None'){
   if(sequencing.type == '3-prime'){
-    all.barcodes <- read.csv('/mnt/scratch/beluga/michalik/230428_IdAO_v2/IdAO_v2/10X_barcodes/3M-february-2018.txt', h=F)[,1]
+    all.barcodes <- read.csv('cr_whitelists/3M-february-2018.txt', h=F)[,1]
   }else if(sequencing.type == '5-prime'){
-    all.barcodes <- read.csv('/mnt/scratch/beluga/michalik/230428_IdAO_v2/IdAO_v2/10X_barcodes/737K-august-2016.txt', h=F)[,1]
+    all.barcodes <- read.csv('cr_whitelists/737K-august-2016.txt', h=F)[,1]
   }
 # whitelist was given
 }else if(whitelist.path != 'None'){
