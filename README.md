@@ -331,6 +331,12 @@ You should have received a copy of the license along with this work. If not, see
 
 This project was supported by the National Institute of Virology and Bacteriology (Programme EXCELES, LX22NPO5103 to Ondrej Stepanek) - funded by the European Union - Next Generation EU. 
 
+## Citation
+
+If you find this tool useful and use it for your published analyses, please cite:
+
+Michalik J, Niederlova V, Stepanek O. IDEIS: a tool to identify PTPRC/CD45 isoforms from single-cell transcriptomic data. Front Immunol. 2024 Oct 9;15:1446931. doi: 10.3389/fimmu.2024.1446931. PMID: 39445006; PMCID: PMC11496083.
+
 ## Contact
 
 Feel free to send a mail to juraj.michalik@img.cas.cz if you encounter any bugs.
